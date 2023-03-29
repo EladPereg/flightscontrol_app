@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/flightscontrol_app/static/css/main.97b5fe58.css",
+    "main.js": "/flightscontrol_app/static/js/main.ef5a4ae6.js",
+    "static/js/787.856c4968.chunk.js": "/flightscontrol_app/static/js/787.856c4968.chunk.js",
+    "index.html": "/flightscontrol_app/index.html",
+    "main.97b5fe58.css.map": "/flightscontrol_app/static/css/main.97b5fe58.css.map",
+    "main.ef5a4ae6.js.map": "/flightscontrol_app/static/js/main.ef5a4ae6.js.map",
+    "787.856c4968.chunk.js.map": "/flightscontrol_app/static/js/787.856c4968.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97b5fe58.css",
+    "static/js/main.ef5a4ae6.js"
+  ]
+}
