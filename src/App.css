@@ -1,0 +1,156 @@
+.App {
+  text-align: center;
+}
+
+
+/*.App-logo {
+ height: 40vmin;
+ pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+ .App-logo {
+   animation: App-logo-spin infinite 20s linear;
+ }
+}
+
+.App-header {
+ background-color: #282c34;
+ min-height: 100vh;
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ justify-content: center;
+ font-size: calc(10px + 2vmin);
+ color: white;
+}
+
+.App-link {
+ color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+ from {
+   transform: rotate(0deg);
+ }
+ to {
+   transform: rotate(360deg);
+ }
+}
+*/
+
+
+
+/* @media (max-width:500px){
+  #MenuDiv{
+   display: flex;
+ 
+  }
+  .btn{
+     background-color: brown;
+   color: aliceblue;
+   margin: 5px;
+   border-radius: 20px;
+  }
+} */
+
+#homeDiv {
+  height: 713px;
+  background: linear-gradient(to right, #ae8def, #9eedbb, #f48a8a);
+}
+
+#miniHomeDiv {
+  position: absolute;
+  top: 200px;
+  left: 25%;
+}
+
+#MenuDiv {
+  width: 450px;
+  height: 25px;
+  display: flex;
+  flex-direction: row;
+  margin-left: 30%;
+}
+
+.btn {
+  width: 150px;
+  height: 40px;
+  margin: 10px;
+  border-radius: 25px;
+  background-color: #8adaf4;
+  font-size: 23px;
+  color:white;
+}
+
+#controlpanelDiv {
+  height: 730px;
+  margin-top: -40px;
+  background: linear-gradient(to right, #ae8def, #9eedbb, #f48a8a);
+}
+
+#allFLyTv{
+ position: relative;
+top: 150px; 
+margin-left: 33%;
+}
+
+#miniallFLyTv {
+  border: 2px solid black;
+  height: 80px;
+  width: 600px;
+ }
+
+ #addFltDiv{
+   height: 730px;
+   margin-top: -45px;
+   background: linear-gradient(to left, #5308e9, #edaf9e, #8adaf4);
+ 
+ }
+
+ #addFltMiniDiv{
+   position: relative;
+   top: 150px; 
+ }
+ .addFleInps{
+   width: 200px;
+   height: 30px;
+   margin: 10px;
+   border-radius: 25px;
+   text-align: center;
+ }
+
+ #sortDiv{
+   height: 730px;
+   margin-top: -44px;
+   background: linear-gradient(to right, #5308e9, #edaf9e, #8adaf4);
+ 
+ }
+
+#miniSortDiv{
+ position: relative;
+ top: 100px; 
+}
+
+.newSortDiv{
+ margin-left: 32%;
+ border: 2px black solid;
+ width: 550px;
+ margin-top: 10px;
+}
+
+#h3Sort{
+ position: absolute;
+}
+
+#deleteDiv{
+ height: 730px;
+ margin-top: -44px;
+ background: linear-gradient(to right, #5308e9, #edaf9e, #8adaf4);
+
+}
+
+#miniDeleteDiv{
+ position: relative;
+ top: 100px; 
+}
